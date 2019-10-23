@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">mZhihu</string>
+    <string name="slogan">Werb Gank with Zhihu</string>
+    <string name="load_error">没网了兄弟！</string>
+    <string name="save">需要保存当前图片嘛？</string>
+    <string name="gank_load_error">代码家的服务器不见啦</string>
+    <string name="headline">大公司头条</string>
+    <string name="feed_0">好奇心研究所</string>
+    <string name="github">没有设置是最好的设置</string>
+    <string name="about_me">关于我</string>
+    <string name="one_word">这是一个CollapsingToolbarLayou 可折叠标题栏</string>
+    <string name="app_info">个人项目</string>
+    <string name="desc"> * mZhihu是业余时间编写的新闻类app</string>
+    <string name="desc_api_zhihu"> * api网上找的</string>
+    <string name="desc_api_gank"> * 干货日报 Api 取自 Gank.io</string>
+    <string name="desc_api_daily"> * 好奇心日报 Api 是爬取出来的，后期会整理到 GitHub</string>
+    <string name="desc_dev"> * 整体开发基于 MVP+RxJava+Retrofit</string>
+    <string name="app_dev">开发</string>
+    <string name="desc_dev_1"> * 通过 Retrofit 实现了无网缓存</string>
+    <string name="desc_dev_2"> * 基于 MVP 模式对 Activity 和 Fragment 封装了两个基类</string>
+    <string name="desc_dev_3"> * 运用RecyclerView加载了多种复杂布局</string>
+    <string name="app_me">关于我</string>
+    <string name="me_1"> * 我叫小周，来自河南郑州</string>
+    <string name="me_2"> * 性格温和人畜无害</string>
+    <string name="me_3"> * 不抽烟喝酒烫头,不唱跳rap篮球</string>
+    <string name="app_content">联系方式</string>
+    <string name="splash_info">Personal Test Demo</string>
+    <string name="api_info">以上api只用做学习用途，如有冒犯请联系我删除。</string>
+</resources>

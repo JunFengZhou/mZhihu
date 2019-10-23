@@ -1,0 +1,155 @@
+[33mcommit 859ed08ff0b71b1ab889c96d821dbef0697dbc7d[m
+Author: py_zhoujunfeng <18001774037@163.com>
+Date:   Thu Sep 26 17:48:16 2019 +0800
+
+    2
+
+[33mcommit c57911fb59250ffb321be81e837ea342b9faee4b[m
+Author: wanbo <wanbowb@live.com>
+Date:   Mon Mar 20 13:44:51 2017 +0800
+
+    update README
+
+[33mcommit 8aa6847e6911ee9179a2b9451df393cfad6e8ccf[m
+Author: wanbo <wanbowb@live.com>
+Date:   Mon Mar 20 13:37:30 2017 +0800
+
+    update build apk
+
+[33mcommit fab2c49bf2defc7d40768201ff3a5f759ad65aa7[m
+Author: wanbo <wanbowb@live.com>
+Date:   Tue Mar 7 21:26:55 2017 +0800
+
+    test for cache
+
+[33mcommit 5867d6e70234715468905e3761bc4c56d24e9428[m
+Author: Werb <wanbowb@live.com>
+Date:   Fri Sep 16 20:26:02 2016 +0800
+
+    解决在 GankWebActivity 中关闭网页还有声音播放的bug
+
+[33mcommit b538008af970fbd63a5e7e59ae1be7fbf5b0578f[m
+Author: Werb <wanbowb@live.com>
+Date:   Mon Sep 12 18:08:41 2016 +0800
+
+    解决在 ZhihuWebPresenter 中，在断网情况下释放图片资源时，由于img为空，而造成奔溃的bug
+
+[33mcommit 03699f11e5a23124c15e6408d10346581156f191[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 20:04:46 2016 +0800
+
+    add README
+
+[33mcommit 731cdf526ab97096a1c4c2ca748d44f656fcc53d[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 20:03:25 2016 +0800
+
+    add README
+
+[33mcommit 9df5db07b6410f8889f3e38c8772150f0b28f29e[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 19:46:45 2016 +0800
+
+    add README
+
+[33mcommit 428a137b4b397216cf77b3f04d5152fff3bce4bc[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 19:44:37 2016 +0800
+
+    add README
+
+[33mcommit 5966c9223877887e37f6e851ba07489341e243b4[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:11:52 2016 +0800
+
+    add README
+
+[33mcommit 4a74a6793cd119124dd1be7d9c5581c3e13f6467[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:11:24 2016 +0800
+
+    add README
+
+[33mcommit 6f8e4a334c168aa6d243b4a5b2e11df9c69cd79a[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:10:50 2016 +0800
+
+    add README
+
+[33mcommit 6e8415d31b9f007131e92bff649a5bab915cab9f[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:07:23 2016 +0800
+
+    add README
+
+[33mcommit c80469691fa4336eb01999ec5994c208d98aaec8[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:05:08 2016 +0800
+
+    add README
+
+[33mcommit 759603ae7676a8747abf5682ea2c71dff24224c5[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:04:31 2016 +0800
+
+    add README
+
+[33mcommit e21c4a223b3d53a4dddc3344637809f0dc8e8f96[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 18:01:31 2016 +0800
+
+    add README
+
+[33mcommit 4e81342590b314b389102d3efb64273fc8124d93[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 17:59:21 2016 +0800
+
+    add screenshots
+
+[33mcommit 69f5816f0760b8c994c7961aa82707b039b5abc0[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 17:29:07 2016 +0800
+
+    add screenshots
+
+[33mcommit e4e718fdff3fd2d2514d710111c272fa24f87411[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 17:27:39 2016 +0800
+
+    add screenshots
+
+[33mcommit bd5041f8f21d943d927aa26436dc1f87a66ef9b3[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 17:25:58 2016 +0800
+
+    add screenshots
+
+[33mcommit cbeee3c13169928264df382b47c8f674ee01b36f[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 17:02:23 2016 +0800
+
+    add screenshots
+
+[33mcommit 1c79d14505899b4cab89ae5fc13e638bdae1d321[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 16:54:36 2016 +0800
+
+    add screenshots
+
+[33mcommit b0c66096a2ebee4f01a7e36cbaeaa4e130b3719a[m
+Author: Werb <wanbowb@live.com>
+Date:   Sun Sep 11 16:20:45 2016 +0800
+
+    完善闪屏，增加部分注释
+
+[33mcommit 0d1cd3aec44b1547295eeec15a3f03a2b8e9c3c5[m
+Author: Werb <wanbowb@live.com>
+Date:   Tue Sep 6 20:32:52 2016 +0800
+
+    基本完成，待后期优化
+
+[33mcommit 6662e975b85f34c70b2bcdffa65114a36f854f2c[m
+Author: Werb <wanbowb@live.com>
+Date:   Mon Sep 5 17:54:13 2016 +0800
+
+    Initial commit

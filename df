@@ -1,0 +1,13 @@
+[1mdiff --git a/app/src/main/java/com/werb/gankwithzhihu/ui/fragment/ZhihuFragment.java b/app/src/main/java/com/werb/gankwithzhihu/ui/fragment/ZhihuFragment.java[m
+[1mindex 0328624..6de9be5 100644[m
+[1m--- a/app/src/main/java/com/werb/gankwithzhihu/ui/fragment/ZhihuFragment.java[m
+[1m+++ b/app/src/main/java/com/werb/gankwithzhihu/ui/fragment/ZhihuFragment.java[m
+[36m@@ -20,7 +20,7 @@[m [mimport butterknife.Bind;[m
+  * fragment of Zhihu[m
+  */[m
+ public class ZhihuFragment extends MVPBaseFragment<IZhihuFgView,ZhihuFgPresenter> implements IZhihuFgView {[m
+[31m-//master gaidong[m
+[32m+[m[32m//master gaidong  123git[m
+     private LinearLayoutManager mLayoutManager;[m
+     @Bind(R.id.content_list)[m
+     RecyclerView content_list;[m
