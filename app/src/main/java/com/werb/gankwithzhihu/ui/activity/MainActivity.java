@@ -23,7 +23,7 @@ import butterknife.Bind;
 
 /**
  * Created by Werb on 2016/8/18.
- * zjf.第五次提交测试；第6次测试提交需要覆盖第五次提交
+ * zjf.第五次提交测试；第6次测试提交需要覆盖第五次提交；第7次提交;
  * Contact Me : werbhelius@gmail.com
  * 主界面，包含了三个Fragment，但是我觉得在 Fragment 的加载和销毁的处理上，做的不好，希望大家可以有好的建议提供给我
  */
